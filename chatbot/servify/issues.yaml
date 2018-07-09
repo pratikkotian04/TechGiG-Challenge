@@ -1,0 +1,84 @@
+categories:
+- issues
+conversations:
+Hello
+Hi I am a Servify Bot, How can I help you ?
+Hi
+Hello I am a Servify Bot,How can I help you ?
+Greetings! I am a Servify Bot, How can I help you ?
+Hello
+Hello,I am a Servify Bot, How can I help you ?
+Greetings!
+Hi, How is it going?
+Good
+Hi, How is it going?
+Fine
+Hi, How is it going?
+Okay
+Hi, How is it going?
+Great
+Hi, How is it going?
+Could be better.
+Hi, How is it going?
+Not so great.
+How are you doing?
+Good.
+How are you doing?
+Very well, thanks.
+How are you doing?
+Fine, and you?
+Nice to meet you.
+Thank you.
+How do you do?
+I'm doing well.
+How do you do?
+I'm doing well. How are you?
+Hi, nice to meet you.
+Thank you. You too.
+It is a pleasure to meet you.
+Thank you. You too.
+Top of the morning to you!
+Thank you kindly.
+Top of the morning to you!
+And the rest of the day to you.
+What's up?
+Not much.
+What's up?
+Not too much.
+What's up?
+Not much, how about you?
+What's up?
+Nothing much.
+What's up?
+The sky's up but I'm fine thanks. What about you?
+What can you do?
+I am a FAQ Bot. Would try to help you with some issues you are facing.
+What is Servify? What does Servify do?
+`Servify is a technology company which serves as a platform for brands to offer end-to-end solutions to their users. These solutions vary from accidental protection plans for smartphone brands to repairs and maintenance work for home appliance brands.`
+How to add your device(s) to the Servify App?
+`Step 1`: Download and install the Servify app from the Play Store or the App Store, depending on whether you’re on an Android phone or an iPhone. `Step 2`: From the main app screen, tap the +ADD `Step 3`: In the CHOOSE DEVICE section, select the category of the device you wish to add. `Step 4`: On the next screen, choose the particular brand for your device. If the brand name isn’t listed, tap on Can’t find your brand? Add oneat the bottom of this screen. `Step 5`: In the DETAILS page, add the information that will help you access it whenever needed. Once you’ve added all the details, tap the ADDbutton on the bottom right. `Step 6`: Once you’ve done that, you will see the newly added device on the main page of the My Devices area on the Servify app.
+Why should you add your device(s) to Servify?
+1. To keep track of every important information regarding your devices like date of purchase, original invoice, bills, serial numbers, etc. in one convenient place. 2. To get relevant information like Brand Authorised Service Centres and demos for various products arranged with a few taps.
+When and how to run a Diagnostic on your phone?
+It’s recommended you run a diagnostic periodically to ensure the best health of your smartphone. Depending on your usage, this should vary from weekly to fortnightly.
+Diagnostics are run on the device where the app is installed and
+From the Servify app, tap theDiagnose this Device  From here, you have the option to either do a Full Diagnosis or a Custom Diagnosis of only the components you suspect are not working correctly.
+Tap on Full Diagnosis to get a full health checkup of your smartphone. Or, tap on Custom Diagnosis and then select the components you suspect aren’t working perfectly.
+How does running the Diagnostics on your phone help?
+The results show you which components are not working and may have some issues that need attention.
+History of diagnosis’ results are automatically saved and can be referenced later.
+Point to note: the diagnosis can be run only on the device where either the OnePlus Care or Servify app is installed.
+How to raise a device repair request using Servify app?
+Step 1: Download and install the Servify app on your phone. Step 2: Complete the registration on the app using your mobile number and OTP Step 3: Tap the ‘Add’ option to add your electronic devices to your Servify app. Step 4: To request a repair, tap ‘Request Service’ and select ‘Repair‘ option. Step 5: Select the device you wish to repair. You can add a new device to this list by tapping ‘Request Service for a new device‘. Step 6: Add an address of your convenience and choose the service mode of your choice. Service modes will vary as per brands and devices. Step 7: If your device is eligible for pickup, you will have an option to choose a pickup date and time. In case you choose to carry your device, you will be suggested the nearest service centre as per your location. You can specify the date and time as per your convenience. Tap ‘Next’ after your desired selection. Step 8: The app will prompt you to choose the problem you are facing. You can add an image and record your description. You can also add a written description. Step 9: Tap ‘Repair estimate‘ to know your service estimate and tap ‘Schedule’ to schedule your repair request. Step 10: Your repair request is now raised. Keep a note of your unique service reference id. Servify will contact you regarding your repair request.
+Why did my repair request under Protection Plan get rejected?
+The reason mentioned by you in your claim did not match our criteria of covering the protection plan. Please go through the detailed terms here (https://servify.in/termsandconditions/terms-license-eula/).
+The date of purchase provided by you did not match the date provided during activation of plan.
+Your phone was found to be either already serviced by an unauthorised center or refurbished. This is against the policy laid out by the brand.
+These are only a handful of scenarios where repair requests get rejected. To know more, visit our documentation page (https://servify.in/termsandconditions/terms-license-eula/).
+Activation code not received, what to do?
+Please ensure you are using the correct device to register for the said plan. The activation code is sent via sms and email to our users on the registered email address and phone number.
+What is depreciation and why applicable ?
+Every product, once sold, loses value. The car that you brought a year ago or even a week ago will lose value once it leaves the showroom. As products are prone to wear and tear, it is safe to assume the value of it will keep dropping once it is sold. And since a phone is always subject to constant use throughout the day, one excepts several dents or dumps over its lifecycle. The same principle applies for cars as well.
+No update on repair status or long pending OR different repair statuses?
+I’m sorry you are unable to get a correct status on your repair request. As I can see from our records, you had submitted a request for your <device name> on the <date> for a <describe issue>. Usually, our process takes <ETA> to resolve such cases.
+
